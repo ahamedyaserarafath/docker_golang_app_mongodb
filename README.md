@@ -6,7 +6,7 @@
 - [Result](#Result)
 
 # Introduction
-In this post, we will deploy a deploy the golang and mongodb as a docker and insert dummy data and we use the golang as app server.
+In this post, we will deploy the golang and mongodb as a docker and insert dummy data and we use the golang as app server.
 
 # Pre-requisites
 Before we get started installing the golang and mongo. 
